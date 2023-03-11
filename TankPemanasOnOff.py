@@ -1,3 +1,9 @@
+'''
+Ahmad Abu Hanifah
+A1C020026
+Teknik Otomasi Pertanian
+'''
+
 import numpy as np
 import matplotlib.pyplot as plt
 
